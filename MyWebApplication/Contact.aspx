@@ -38,6 +38,7 @@
             <asp:ListItem Text="Red" Value="Red"/>
             <asp:ListItem Text="Green" Value="Green"/>
             <asp:ListItem Text="Yellow" Value="Yellow"/>
+            <asp:ListItem Text="Orange" Value="Orange"/>
         </asp:DropDownList>
         <asp:RequiredFieldValidator ID="rfvColor" ControlToValidate="ddlColor" ErrorMessage="Color Required." Display="Dynamic"  runat="server"/>
 
