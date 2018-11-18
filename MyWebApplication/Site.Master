@@ -60,6 +60,7 @@
                         <li><a runat="server" href="~/PageLifeCycle">Page Life Cycle</a></li>
                         <li><a runat="server" href="~/ValidationExample">Validation Server Controls</a></li>
                         <li><a runat="server" href="~/ExceptionHandlingExample">Exception Handling</a></li>
+                        <li><a runat="server" href="~/DBConnectionExample">DB Connection Example</a></li>
                     </ul>
                 </div>
             </div>
