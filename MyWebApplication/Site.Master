@@ -61,6 +61,7 @@
                         <li><a runat="server" href="~/ValidationExample">Validation Server Controls</a></li>
                         <li><a runat="server" href="~/ExceptionHandlingExample">Exception Handling</a></li>
                         <li><a runat="server" href="~/DBConnectionExample">DB Connection Example</a></li>
+                        <li><a runat="server" href="~/DataBindingExample">Data Binding Example</a></li>
                     </ul>
                 </div>
             </div>
